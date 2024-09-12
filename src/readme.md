@@ -3,9 +3,9 @@ Download tại [đây](https://hadoop.apache.org/releases.html), click vào vers
 Có 2 cách cài đặt
 1. Cài đặt standarlone vào linux (thường ưu tiên cách này hơn vì dùng hadoop tức dữ liệu phải lớn)
 
-[standarlone](../images/1.hadoop_setup.png)
+[standarlone](./images/1.hadoop_setup.png)
 
-[cách cấu hình config file](../images/1.hadoop_config_file.png)
+[cách cấu hình config file](./images/1.hadoop_config_file.png)
 
 2. Cài đặt [container](https://hub.docker.com/r/apache/hadoop)
 Khi dựng hadoop cluster cần lưu ý:
